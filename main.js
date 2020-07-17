@@ -1,0 +1,1 @@
+alert ("Aviso, esta pagina puede estar demasiado bien hecha y puede ser dañino para los ojos, gracias por su comprensión")
